@@ -15,6 +15,10 @@
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.html>.
 
+.. image:: docs/sphinx/img/wcpms_logo.png
+   :width: 300
+   :align: center
+   :alt: wcpms logo
 
 ============================================================
 Python Client Library for Web Crop Phenology Metrics Service
