@@ -15,7 +15,7 @@
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.html>.
 
-.. image:: https://raw.githubusercontent.com/GSansigolo/wcpms/main/docs/img/wcpms_logo.png
+.. image:: https://raw.githubusercontent.com/brazil-data-cube/wcpms/main/docs/img/wcpms_logo.png
    :width: 300
    :align: center
    :alt: wcpms logo
@@ -76,7 +76,13 @@ We created the wcpms.py library from scratch to facilitate phenology extraction 
 Installation
 ============
 
-See `INSTALL.rst <https://github.com/brazil-data-cube/wcpms.py/blob/master/INSTALL.rst>`_.
+See `Installation <https://wcpms.readthedocs.io/en/latest/installation.html>`_.
+
+
+Changes
+=======
+
+See `Changes <https://wcpms.readthedocs.io/en/latest/history.html>`_.
 
 
 Documentation
